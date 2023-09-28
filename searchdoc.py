@@ -60,7 +60,3 @@ if __name__ == "__main__":
         # Print the report to the console
         print(report)
 
-        # You can also write the report to a file if needed
-        # with open("word_occurrence_report.txt", "w") as report_file:
-        #     report_file.write(report)
-
